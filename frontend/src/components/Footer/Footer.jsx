@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import {assets} from '../../assets/assets'
+import { assets } from "../../assets/assets";
 const Footer = () => {
   return (
     <div className="footer" id="footer">
@@ -29,16 +29,16 @@ const Footer = () => {
         </div>
 
         <div className="footer-content-right">
-            <h2>Get In Touch</h2>
-            <ul>
-                <li>+91 987654321</li>
-                <li>mansoor@foodDelivery.com</li>
-            </ul>
+          <h2>Get In Touch</h2>
+          <ul>
+            <li>+91 987654321</li>
+            <li>mansoor@foodDelivery.com</li>
+          </ul>
         </div>
       </div>
       <hr />
       <p className="footer-copy-right">
-        Copyright  2024 &copy; Mansoor@foodDelivery App 
+        Copyright 2024 &copy; Mansoor@foodDelivery App
       </p>
     </div>
   );
