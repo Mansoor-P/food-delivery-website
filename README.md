@@ -1,27 +1,28 @@
 
-# Food Delivery App 🍔🚴‍♂️
+# Food Delivery Website 🍔🚴‍♂️
 
-Welcome to the **Food Delivery App** repository! This project delivers a seamless food ordering and delivery experience to users with an intuitive and efficient interface.
+Welcome to the **Food Delivery Website** repository!This project is focused on building the user interface for a food delivery website. It aims to provide a clean, responsive, and user-friendly design to enhance the overall food ordering experience.
+
 
 ---
 
 ## Features ✨
 
-- **User Authentication**: Secure sign-up and sign-in functionality to access personalized features.
-- **Responsive Design**: Ensures a consistent user experience across devices.
-- **Smooth Navigation**: Intuitive navigators for seamless transitions between pages.
-- **State Management**: Efficiently managed state using React's Context API.
-- **Ordering System**: Browse restaurants, select items, and place orders effortlessly.
-- **Real-Time Delivery Tracking**: Keep users informed about their order's status in real-time.
+- **User Authentication**: Secure sign-up and sign-in functionality for personalized access.
+- **Responsive Design**: Consistent experience across all devices.
+- **Smooth Navigation**: Easy navigation between pages for a smooth experience.
+- **State Management**: Managed using [React's Context API](https://reactjs.org/docs/context.html) for efficient state handling.
+- **Ordering System**: Browse restaurants, select meals, and place orders with ease.
+- **Real-Time Delivery Tracking**: Stay updated on the status of orders in real time.
 
 ---
 
 ## Tech Stack 🛠️
 
-- **Frontend**: React.js
-- **State Management**: Context API
-- **Routing**: React Navigation
-- **Styling**: Styled Components
+- **Frontend**: [React.js](https://reactjs.org/)
+- **State Management**: [Context API](https://reactjs.org/docs/context.html)
+- **Routing**: [React Navigation](https://reactnavigation.org/)
+- **Styling**: [Styled Components](https://styled-components.com/)
 
 ---
 
@@ -29,7 +30,7 @@ Welcome to the **Food Delivery App** repository! This project delivers a seamles
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Mansoor-food-delivery-app
+   git clone https://github.com/Mansoor-P/food-delivery-website
    ```
 
 2. **Navigate to the project directory**  
@@ -49,8 +50,6 @@ Welcome to the **Food Delivery App** repository! This project delivers a seamles
 
 ---
 
-
-
 ## Contributing 🤝
 
 Contributions are welcome! To contribute:  
@@ -59,5 +58,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m "Add feature-name"`).  
 4. Push to the branch (`git push origin feature-name`).  
 5. Open a pull request.
+```
 
----
+This will create a well-formatted and clean README for your repository with useful links!
